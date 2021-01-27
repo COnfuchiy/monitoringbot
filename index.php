@@ -45,7 +45,7 @@ $settings = array(
     "disable_milty_notify"=>true,
 
     /**
-     * @var string with the time intervals (based on 24 hours) when the bot can send messages
+     * @var array with the time intervals (based on 24 hours) when the bot can send messages
      * @example [
      *          "7-12",
      *          "13-15",
